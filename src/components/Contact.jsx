@@ -21,7 +21,7 @@ export function Contact() {
         I’d love to hear from you! Reach out on any of these platforms:
       </p>
 
-      <div className="flex flex-col sm:flex-row justify-center gap-8">
+      <div className="flex flex-row justify-center md:gap-8">
         <ContactCard Icon={FaGithub} link="https://github.com/lauras14159" />
         <ContactCard
           Icon={FaLinkedin}
