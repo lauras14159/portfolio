@@ -18,10 +18,10 @@ const experiences = [
 export const Experience = () => {
   return (
     <section
-      className="min-h-screen px-6 md:px-20 relative py-20"
+      className="min-h-screen px-6 md:px-20 relative md:py-10 py-5"
       id="experience"
     >
-      <h2 className="text-3xl font-bold text-white text-center mb-16">
+      <h2 className="md:text-4xl text-[1.8rem] font-bold text-white text-center mb-16">
         Experience
       </h2>
 

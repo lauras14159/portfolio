@@ -78,8 +78,8 @@ const ProjectCard = ({ project, isBlender }) => {
 
 export const Projects = () => {
   return (
-    <section className="py-24 px-6 max-w-7xl mx-auto" id="projects">
-      <h2 className="text-4xl font-bold mb-16 text-center">
+    <section className="py-20 px-6 max-w-7xl mx-auto" id="projects">
+      <h2 className="md:text-4xl text-[1.8rem] font-bold mb-16 text-center">
         My <span className="text-accent">Projects</span>
       </h2>
 

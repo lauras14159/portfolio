@@ -15,8 +15,13 @@ const ContactCard = ({ Icon, link }) => {
 
 export function Contact() {
   return (
-    <section id="contact" className="max-w-4xl mx-auto px-4 py-20 text-center">
-      <h2 className="text-4xl font-bold mb-6 tracking-widest">Contact Me</h2>
+    <section
+      id="contact"
+      className="max-w-4xl mx-auto px-4 md:py-10 py-5 text-center"
+    >
+      <h2 className="md:text-4xl text-[1.8rem] font-bold mb-6 tracking-widest">
+        Contact Me
+      </h2>
       <p className="text-muted mb-12">
         I’d love to hear from you! Reach out on any of these platforms:
       </p>

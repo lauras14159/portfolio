@@ -35,7 +35,7 @@ export const Skills = () => {
 
   const SkillItem = ({ name, Icon, color }) => (
     <div
-      className="group relative w-28 h-28 rounded-full
+      className="group relative md:w-28 md:h-28 w-24 h-24 rounded-full
                  flex flex-col items-center justify-center gap-2
                  bg-white/5"
     >
@@ -47,7 +47,7 @@ export const Skills = () => {
         style={{ willChange: "transform" }}
       />
 
-      <Icon className={`text-4xl ${color} relative z-10`} />
+      <Icon className={`md:text-4xl text-3xl ${color} relative z-10`} />
       <span className="text-xs tracking-wide text-gray-200 relative z-10">
         {name}
       </span>
@@ -57,7 +57,7 @@ export const Skills = () => {
   return (
     <section id="skills" className="max-w-6xl mx-auto px-4 py-16">
       <div className="text-center mb-16">
-        <h2 className="text-4xl font-bold tracking-widest">
+        <h2 className="md:text-4xl text-[1.8rem] font-bold tracking-widest">
           My Development Toolkit
         </h2>
         <p className="mt-4 text-sm text-muted">

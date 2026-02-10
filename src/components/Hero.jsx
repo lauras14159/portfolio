@@ -14,11 +14,11 @@ export const Hero = () => {
         }}
       />
 
-      <p className="text-sm uppercase tracking-widest text-accent mb-2">
+      <p className="text-sm uppercase tracking-widest text-accent md:mb-2 md:pt-0 pt-10">
         Front-End Developer • React Specialist
       </p>
 
-      <h1 className="text-4xl md:text-6xl font-bold mb-4">
+      <h1 className="text-[1.8rem] md:text-6xl font-bold mb-4">
         Hi, I’m Laura 👋
         <br />I build <span className="text-accent">React</span> applications
       </h1>
@@ -39,7 +39,7 @@ export const Hero = () => {
           hoverBorderColor=""
           w="w-full sm:w-48"
           h="h-12"
-          textSize="text-lg"
+          textSize="md:text-lg"
         >
           View Projects
         </Button>
@@ -53,7 +53,7 @@ export const Hero = () => {
           hoverBorderColor="hover:border-accent-hover"
           w="w-full sm:w-48"
           h="h-12"
-          textSize="text-lg"
+          textSize="md:text-lg"
         >
           Contact Me
         </Button>
