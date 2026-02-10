@@ -4,7 +4,7 @@ export const Hero = () => {
   return (
     <section className="relative min-h-screen flex flex-col items-center justify-center bg-background z-10 text-text px-6 text-center">
       <div
-        className="absolute -z-50 w-72 h-72 rounded-full"
+        className="absolute -z-50 w-72 h-56 rounded-full"
         style={{
           background: "rgba(59,130,246,0.2)",
           filter: "blur(120px)",
@@ -15,18 +15,18 @@ export const Hero = () => {
       />
 
       <p className="text-sm uppercase tracking-widest text-accent mb-2">
-        Web Developer
+        Front-End Developer • React Specialist
       </p>
 
       <h1 className="text-4xl md:text-6xl font-bold mb-4">
-        Building <span className="text-accent">Modern</span>
-        <br />
-        Web Experiences
+        Hi, I’m Laura 👋
+        <br />I build <span className="text-accent">React</span> applications
       </h1>
 
       <p className="max-w-xl mb-6">
-        I design and build fast, responsive, and user-friendly websites using
-        modern web technologies.
+        Front-end developer with several years of experience building fast,
+        responsive, and user-friendly web applications using React, Tailwind
+        CSS, and Typescript.
       </p>
 
       <div className="flex flex-col sm:flex-row gap-4 w-full justify-center">
