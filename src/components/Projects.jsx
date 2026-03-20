@@ -32,12 +32,12 @@ const blenderProjects = [
   {
     title: "Donut & Coffee",
     description: "3D model of a donut and coffee cup.",
-    image: "/blender/donut_coffee.png",
+    image: "/blender/donut_coffee.webp",
   },
   {
     title: "TV Room",
     description: "3D interior scene of a TV room.",
-    image: "/blender/tv_room.png",
+    image: "/blender/tv_room.webp",
   },
 ];
 
