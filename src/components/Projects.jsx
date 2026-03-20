@@ -25,19 +25,19 @@ const blenderProjects = [
     image: "/blender/isometric_bedroom.png",
   },
   {
-    title: "Low Polly Scene",
+    title: "Low Poly Scene",
     description: "Low poly 3D scene with trees and houses.",
-    image: "/blender/low-polly-scene.png",
+    image: "/blender/low_poly_scene.png",
   },
   {
     title: "Donut & Coffee",
     description: "3D model of a donut and coffee cup.",
-    image: "/blender/Donut_Coffee.PNG",
+    image: "/blender/donut_coffee.png",
   },
   {
     title: "TV Room",
     description: "3D interior scene of a TV room.",
-    image: "/blender/TV_room.PNG",
+    image: "/blender/tv_room.png",
   },
 ];
 
