@@ -19,6 +19,17 @@ const webProjects = [
 
 const blenderProjects = [
   {
+    title: "Isometric Bedroom",
+    description:
+      "A cozy, minimal bedroom with wooden flooring, featuring a single bed with blue bedding on a small rug. Beside it is a desk with a laptop, lamp, and calendar, paired with a blue chair. A bookshelf holds books, boxes, and a plant, with a small stool nearby. The room also includes wall art, a clock, and a glass door leading to a balcony.",
+    image: "/blender/isometric-bedroom.PNG",
+  },
+  {
+    title: "Low Polly Scene",
+    description: "Low poly 3D scene with trees and houses.",
+    image: "/blender/low-polly-scene.PNG",
+  },
+  {
     title: "Donut & Coffee",
     description: "3D model of a donut and coffee cup.",
     image: "/blender/Donut_Coffee.PNG",
@@ -27,11 +38,6 @@ const blenderProjects = [
     title: "TV Room",
     description: "3D interior scene of a TV room.",
     image: "/blender/TV_room.PNG",
-  },
-  {
-    title: "Low Polly Scene",
-    description: "Low poly 3D scene with trees and houses.",
-    image: "/blender/low-polly-scene.PNG",
   },
 ];
 
