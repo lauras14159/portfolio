@@ -22,12 +22,12 @@ const blenderProjects = [
     title: "Isometric Bedroom",
     description:
       "A cozy, minimal bedroom with wooden flooring, featuring a single bed with blue bedding on a small rug. Beside it is a desk with a laptop, lamp, and calendar, paired with a blue chair. A bookshelf holds books, boxes, and a plant, with a small stool nearby. The room also includes wall art, a clock, and a glass door leading to a balcony.",
-    image: "/blender/isometric-bedroom.PNG",
+    image: "/blender/isometric_bedroom.png",
   },
   {
     title: "Low Polly Scene",
     description: "Low poly 3D scene with trees and houses.",
-    image: "/blender/low-polly-scene.PNG",
+    image: "/blender/low-polly-scene.png",
   },
   {
     title: "Donut & Coffee",
