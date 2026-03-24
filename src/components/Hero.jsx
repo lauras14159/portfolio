@@ -15,7 +15,7 @@ export const Hero = () => {
       />
 
       <p className="text-sm uppercase tracking-widest text-accent md:mb-2 md:pt-0 pt-10">
-        Front-End Developer • React Specialist
+        Front-End Developer • React Specialist • 3D Modeling Enthusiast
       </p>
 
       <h1 className="text-[1.8rem] md:text-6xl font-bold mb-4">
@@ -24,9 +24,9 @@ export const Hero = () => {
       </h1>
 
       <p className="max-w-xl mb-6">
-        Front-end developer with several years of experience building fast,
-        responsive, and user-friendly web applications using React, Tailwind
-        CSS, and Typescript.
+        I craft responsive and user-friendly React JS applications by day, and
+        by night I explore the world of 3D modeling in Blender—transforming
+        ideas into creative digital experiences.
       </p>
 
       <div className="flex flex-col sm:flex-row gap-4 w-full justify-center">
