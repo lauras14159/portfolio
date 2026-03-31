@@ -19,6 +19,12 @@ const webProjects = [
 
 const blenderProjects = [
   {
+    title: "Pepsi Can",
+    description:
+      "A 3D model of a Pepsi can, showcasing realistic textures and lighting to capture the iconic design and branding of the beverage.",
+    image: "/blender/pepsi_can.png",
+  },
+  {
     title: "Isometric Bedroom",
     description:
       "A cozy, minimal bedroom with wooden flooring, featuring a single bed with blue bedding on a small rug. Beside it is a desk with a laptop, lamp, and calendar, paired with a blue chair. A bookshelf holds books, boxes, and a plant, with a small stool nearby. The room also includes wall art, a clock, and a glass door leading to a balcony.",
