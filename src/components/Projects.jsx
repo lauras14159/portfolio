@@ -1,5 +1,13 @@
 const webProjects = [
   {
+    title: "Vaulta",
+    description:
+      "A personal finance tracker for managing income, expenses, and budgets. Features a real-time dashboard with charts, multi-currency support, savings goals with progress tracking, bill reminders, recurring transactions, wallet balance management, CSV export, and secure per-user data powered by Supabase — with light and dark mode.",
+    image: "/web/vaultaflow.png",
+    live: "https://vaultaflow.vercel.app/",
+    github: "https://github.com/lauras14159/vaulta",
+  },
+  {
     title: "Physiotherapy Management System",
     description:
       "A physiotherapy management app for tracking patients and simplifying clinic workflows, featuring scheduling, appointment management, reminders with optional email notifications via Resend, secure accounts, record management, and advanced search/filter tools.",
